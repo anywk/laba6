@@ -1,0 +1,9 @@
+C:\Users\aach1\Desktop\отчет\дискр стр\Лаб4\Discrete4\Discrete4\bin\Debug\Discrete4.exe.config
+C:\Users\aach1\Desktop\отчет\дискр стр\Лаб4\Discrete4\Discrete4\bin\Debug\Discrete4.exe
+C:\Users\aach1\Desktop\отчет\дискр стр\Лаб4\Discrete4\Discrete4\bin\Debug\Discrete4.pdb
+C:\Users\aach1\Desktop\отчет\дискр стр\Лаб4\Discrete4\Discrete4\obj\Debug\Discrete4.csprojResolveAssemblyReference.cache
+C:\Users\aach1\Desktop\отчет\дискр стр\Лаб4\Discrete4\Discrete4\obj\Debug\Discrete4.Form1.resources
+C:\Users\aach1\Desktop\отчет\дискр стр\Лаб4\Discrete4\Discrete4\obj\Debug\Discrete4.Properties.Resources.resources
+C:\Users\aach1\Desktop\отчет\дискр стр\Лаб4\Discrete4\Discrete4\obj\Debug\Discrete4.csproj.GenerateResource.Cache
+C:\Users\aach1\Desktop\отчет\дискр стр\Лаб4\Discrete4\Discrete4\obj\Debug\Discrete4.exe
+C:\Users\aach1\Desktop\отчет\дискр стр\Лаб4\Discrete4\Discrete4\obj\Debug\Discrete4.pdb
